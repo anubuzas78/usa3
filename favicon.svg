@@ -1,12 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#ff5e5b"/>
-      <stop offset="0.55" stop-color="#ff9f55"/>
-      <stop offset="1" stop-color="#7c3aed"/>
-    </linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="14" fill="#fef7f0"/>
-  <circle cx="32" cy="32" r="22" fill="url(#g)" opacity="0.18"/>
-  <text x="32" y="44.5" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-weight="600" font-size="38" fill="url(#g)" text-anchor="middle" letter-spacing="-1.2">G</text>
+  <rect width="64" height="64" fill="#f5f1e6"/>
+  <circle cx="32" cy="32" r="26" fill="none" stroke="#a31515" stroke-width="2.2"/>
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#a31515" stroke-width="0.8" stroke-dasharray="2,2.5"/>
+  <text x="32" y="20" text-anchor="middle" font-family="Georgia,serif" font-size="4.4" fill="#a31515" font-weight="600" letter-spacing="0.6">EST · MO · 2024</text>
+  <text x="32" y="38" text-anchor="middle" font-family="Georgia,serif" font-size="14" fill="#a31515" font-weight="700" font-style="italic" letter-spacing="-0.5">GACT</text>
+  <text x="32" y="49" text-anchor="middle" font-family="Georgia,serif" font-size="3.8" fill="#a31515" font-weight="500" letter-spacing="0.4">DUNS · 12 · 416 · 3665</text>
 </svg>
