@@ -1,0 +1,14 @@
+{
+  "name": "Get A Cash Advance Today",
+  "short_name": "GACT",
+  "description": "Personal installment loans $500–$15,000, fixed APR 5.99–35.99%, terms 3–60 months.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fef7f0",
+  "theme_color": "#ff5e5b",
+  "icons": [
+    {"src": "/favicon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "/favicon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"},
+    {"src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
